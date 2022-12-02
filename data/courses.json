@@ -11,9 +11,9 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "Duration ": "2 month",
+        "duration": "2 month",
         "title": "null",
-        "author": {
+        "classes": {
             "name": "Html",
             "published_date": "2022-11-24 17:27:34",
             "img": "https://www.bitdegree.org/learn/storage/media/images/203b0fb7-ae46-4ba7-a69e-8cc445b89db2.o.jpg"
@@ -34,9 +34,9 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "Duration ": "2 month",
+        "duration": "2 month",
         "title": "null",
-        "author": {
+        "classes": {
             "name": "Css",
             "published_date": "2022-11-24 17:27:34",
             "img": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png"
@@ -57,9 +57,9 @@
             "number": 4.8,
             "badge": "Excellent"
         },
-        "Duration ": "3 month",
+        "duration": "3 month",
         "title": "null",
-        "author": {
+        "classes": {
             "name": "Java Script",
             "published_date": "2022-11-30 16:38:45",
             "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220714150931/JavaScript-Introduction.jpg"
@@ -80,14 +80,14 @@
             "number": 4.3,
             "badge": "Excellent"
         },
-        "Duration ": "3 month",
+        "duration": "3 month",
         "title": "null",
-        "author": {
+        "classes": {
             "name": "React.js",
             "published_date": "2022-09-30 16:38:45",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://www.peerbits.com/static/fc598597fa464f52805c88acc3a29061/189bc/the-benefits-of-reactjs-main.jpg"
         },
-        "thumbnail_url": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "thumbnail_url": "https://www.peerbits.com/static/fc598597fa464f52805c88acc3a29061/189bc/the-benefits-of-reactjs-main.jpg",
         "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
         "details": "What is React is used for?The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript"
     },
@@ -103,9 +103,9 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "Duration ": "2 month",
+        "duration": "2 month",
         "title": "null",
-        "author": {
+        "classes": {
             "name": "Node.js",
             "published_date": "2022-10-24 23:15:00",
             "img": "https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png"
@@ -126,9 +126,9 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "Duration ": "3 month",
+        "duration": "3 month",
         "title": "null",
-        "author": {
+        "classes": {
             "name": "Vue.js",
             "published_date": "2022-09-24 23:15:00",
             "img": "https://community-cdn-digitalocean-com.global.ssl.fastly.net/snN3rbgKF7McfuiQAKcoLWMn"
@@ -149,9 +149,9 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "Duration ": "1 month",
+        "duration": "1 month",
         "title": "null",
-        "author": {
+        "classes": {
             "name": "Next.js",
             "published_date": "2022-11-30 15:00:04",
             "img": "https://www.educative.io/v2api/editorpage/6452289848475648/image/5294398307303424"
@@ -172,9 +172,9 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "Duration ": "1 month",
+        "duration": "1 month",
         "title": "null",
-        "author": {
+        "classes": {
             "name": "Angular",
             "published_date": "2022-10-30 15:00:04",
             "img": "https://i.ytimg.com/vi/Ati-oip_HcU/maxresdefault.jpg"
@@ -195,9 +195,9 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "Duration ": "3 month",
+        "duration": "3 month",
         "title": "null",
-        "author": {
+        "classes": {
             "name": "PHP",
             "published_date": "2022-11-30 15:00:04",
             "img": "https://i-softinc.com/wp-content/uploads/2021/06/1-1.jpg"
